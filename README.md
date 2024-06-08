@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет👋 Меня зовут Сааду!</h1>
+<h1 align="center">Hi 👋, I'm Saadu</h1>
 
 ###
 
@@ -18,25 +18,6 @@
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" height="25" alt="vk logo"  />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Liltotto.Liltotto"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  Обо мне</h3>
-
-###
-
-<p align="left">Я начинающий Frontend разработчик. Мой путь в it начался со Школы 21 от Сбера, где я прошел интенсив. После интенсива был промежуток в пару месяцев, где я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, попробовал свои силы в data science, но больше всего меня зацепила Frontend разработка! С мая 2022 года по апрель 2023 я изучал Frontend разработку на курсах Яндекс Практикум. В настоящий момент мое обучение на курсе завершено и я нашел свою первую работу!<br><br>- 🔭 Участвовал в бассейне Школы 21 от Сбера.<br>- 📚 Завершил курсы по веб-разработке Яндекс Практикум!<br>- ⚡ Являюсь старшим студентом на курсе Веб-разработки Яндекс Практикум.</p>
-
-###
-<h3 align="left">📕 Мои статьи</h3>
-
-- [Пишем Telegram-бота для подготовки к собеседованию на Frontend-разработчика](https://proglib.io/p/pishem-telegram-bota-dlya-podgotovki-k-sobesedovaniyu-na-frontend-razrabotchika-2024-05-29)
 
 ###
 
@@ -63,7 +44,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
   <img width="12" />
