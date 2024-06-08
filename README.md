@@ -4,9 +4,16 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
+<h1 align="center">Hi 👋, I'm Saadu</h1>
+
+
 ###
 
-<h1 align="center">Hi 👋, I'm Saadu</h1>
+<h3 align="left">💫 About Me:</h3>
+
+###
+
+<p align="left">I like working on interesting and complex projects. I have both individual and team work experience, as a result of which I have learned to understand someone else's code. There is a great desire and determination to develop in Frontend development.<br><br>- 🔭 Developed games for ~2 years C#/Unity.<br>- 📚 Completed courses on JS+React+Redux by Ivan Petrichenko!<br>- ⚡ More than 1.5 years of commercial development.</p>
 
 ###
 
@@ -48,8 +55,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
   <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="redux logo" height="40" />
 </div>
 
@@ -70,18 +75,3 @@
 </div>
 
 ###
-
-<!--
-**Liltotto/Liltotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
