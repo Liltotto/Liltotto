@@ -22,7 +22,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Liltotto.Liltotto&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Liltotto.visitor-badge&"  />
 </div>
 
 ###
