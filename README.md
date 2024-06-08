@@ -4,16 +4,9 @@
   <img height="300" width="600" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
 
-<h1 align="center">Hi 👋, I'm Saadu</h1>
-
-
-###
-
-<h3 align="left">💫 About Me:</h3>
-
-###
-
-<p align="left">I like working on interesting and complex projects. I have both individual and team work experience, as a result of which I have learned to understand someone else's code. There is a great desire and determination to develop in Frontend development.<br><br>- 🔭 Developed games for ~2 years C#/Unity.<br>- 📚 Completed courses on JS+React+Redux by Ivan Petrichenko!<br>- ⚡ More than 1.5 years of commercial development.</p>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Saadu!;" />
+</h1>
 
 ###
 
@@ -25,6 +18,14 @@
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" height="25" alt="vk logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="left">💫 About Me:</h3>
+
+###
+
+<p align="left">I like working on interesting and complex projects. I have both individual and team work experience, as a result of which I have learned to understand someone else's code. There is a great desire and determination to develop in Frontend development.<br><br>- 🔭 Developed games for ~2 years C#/Unity.<br>- 📚 Completed courses on JS+React+Redux by Ivan Petrichenko!<br>- ⚡ More than 1.5 years of commercial development.</p>
 
 ###
 
