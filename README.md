@@ -19,7 +19,7 @@
   <a href="https://vk.com/s0m79" target="_blank">
     <img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vk" height="25" alt="vk logo"  />
   </a>
-  <a href="https://https://docs.google.com/document/d/1UKFrx5DUaxhRgUUDHKdWjcwPl7QeatuXU7bpyHC5Lzs/edit" target="_blank">
+  <a href="https://docs.google.com/document/d/1UKFrx5DUaxhRgUUDHKdWjcwPl7QeatuXU7bpyHC5Lzs/edit" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" height="25" target="_blank" />
   </a>
 </div>
