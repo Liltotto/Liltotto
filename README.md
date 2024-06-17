@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I like working on interesting and complex projects. I have both individual and team work experience, as a result of which I have learned to understand someone else's code. There is a great desire and determination to develop in Frontend development!<br><br>- 🔭 More than 2 years of commercial development.<br>- 📚 Completed courses on JS+React+Redux by Ivan Petrichenko.<br>- ⚡ Developed games for ~2 years C#/Unity.</p>
+<p align="left">I like working on interesting and complex projects. I have both individual and team work experience, as a result of which I have learned to understand someone else's code. There is a great desire and determination to develop in Frontend development!<br><br>- 🔭 More than 2 years of commercial development(Frontend).<br>- 📚 Completed courses on JS+React+Redux by Ivan Petrichenko.<br>- ⚡ Developed games for ~2 years C#/Unity.</p>
 
 ###
 
